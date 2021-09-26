@@ -1,5 +1,48 @@
+*{
+    font-family: 'Indie Flower', cursive;
+    font-weight: 800;
+}
 
+body{
+    font-size: 20px;   
+}
 
+.contenedor{
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+}
 
+p{
+    width: 48%;
+    display: inline-block;
+}
 
+header h1{
+    display: inline-block;
+}
+
+img{
+    width: 70px;
+    float: right;
+}
+
+.inputs{
+    float: right;
+    width: 48%;
+    margin-top: 20px;  
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 17px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+button{
+    margin: auto;
+    display: block;
+}
 
