@@ -6,8 +6,9 @@
 
 .contenedor{
     width: 48vw;
-    height: 80vh;
+    height: 90vh;
     margin: auto;
+    border: 1px solid black;
 }
 
 header{
@@ -18,6 +19,7 @@ height: 10%;
     float: right;
     font-size: 25px;
     padding-top: 20px;
+    margin-right: 10px;
 }
 
 .titulo{
@@ -38,12 +40,13 @@ height: 10%;
 
 
 main{
-    height: 80%;
+    height: 60%;
     object-fit: cover;
+    
 }
 
 footer{
-    height: 30%;
+    height: 20%;
 }
 
 img{
@@ -70,5 +73,7 @@ span{
 
 .parrafo{
     margin: 0 10px 10px;
+    
 }
+
 
